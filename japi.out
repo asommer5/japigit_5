@@ -1,0 +1,17 @@
+What is the symbol of the stock company? (Enter 'quit' to end.) AAPL
+{'1. open': '232.9500', '2. high': '237.6400', '3. low': '232.3075', '4. close': '236.2100', '5. volume': '39216958'}
+The current price of  AAPL is  236.2100
+What is the symbol of the stock company? (Enter 'quit' to end.) MSFT
+{'1. open': '140.1200', '2. high': '141.0000', '3. low': '139.5100', '4. close': '139.6800', '5. volume': '22270160'}
+The current price of  MSFT is  139.6800
+What is the symbol of the stock company? (Enter 'quit' to end.) AMZN
+{'1. open': '1742.9200', '2. high': '1745.4100', '3. low': '1729.8600', '4. close': '1731.9200', '5. volume': '3084068'}
+The current price of  AMZN is  1731.9200
+What is the symbol of the stock company? (Enter 'quit' to end.) GOOG
+{'1. open': '1222.2100', '2. high': '1228.3900', '3. low': '1213.7400', '4. close': '1215.4500', '5. volume': '1147892'}
+The current price of  GOOG is  1215.4500
+What is the symbol of the stock company? (Enter 'quit' to end.) XOM
+{'1. open': '68.9800', '2. high': '69.4900', '3. low': '68.8850', '4. close': '68.9800', '5. volume': '9830964'}
+The current price of  XOM is  68.9800
+What is the symbol of the stock company? (Enter 'quit' to end.) quit
+Stock Quotes retrieved successfully!
